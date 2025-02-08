@@ -1,5 +1,5 @@
 /*
- Variables = A Container thet stores a value.
+ Variables = A Container that stores a value.
               Behaves as if it where the value it contains.
 
 1. declaration   let x;
