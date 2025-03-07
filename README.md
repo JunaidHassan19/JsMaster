@@ -18,7 +18,7 @@ This repository is designed to empower developers at every level with practical 
 ## Introduction
 **JsMaster** is a comprehensive learning hub for both beginners and seasoned developers. Explore a range of topics from foundational JavaScript concepts to advanced programming techniques. Enhance your skills by studying real-world examples and diving into interactive learning experiences.
 
-![JavaScript Code](https://miro.medium.com/max/1400/1*bZ8svM9VEHBY9tyClF2ocw.png)
+![JavaScript Code](https://github.com/JunaidHassan19/JsMaster/tree/main/scripts)
 
 ## Installation
 To get started, clone the repository to your local machine:
@@ -33,7 +33,7 @@ Each folder within this repository focuses on a specific JavaScript concept:
 - Experiment with and customize the code to better understand the underlying principles.
 - Utilize the examples as a foundation for your own projects and learning adventures.
 
-![Coding Session](https://cdn.pixabay.com/photo/2018/09/01/17/35/javascript-3644494_1280.jpg)
+![Coding Session](https://www.google.com/imgres?q=Coding%20Session%20images&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F2653362%2Fpexels-photo-2653362.jpeg%3Fcs%3Dsrgb%26dl%3Dpexels-harold-vasquez-853421-2653362.jpg%26fm%3Djpg&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fcoding%2F&docid=vLxISuumaP92rM&tbnid=KV6e7DqIlZgZoM&vet=12ahUKEwiskteU6veLAxVQUWwGHX7KIz44ChAzegQIIhAA..i&w=6000&h=4000&hcb=2&ved=2ahUKEwiskteU6veLAxVQUWwGHX7KIz44ChAzegQIIhAA)
 
 ## Contributing
 Your contributions can help shape **JsMaster** into an even more robust resource. To contribute:
