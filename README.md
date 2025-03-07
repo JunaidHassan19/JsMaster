@@ -1,7 +1,3 @@
-# JsMaster
-
-# JsMaster
-
 Welcome to the **JsMaster** repository – your ultimate resource for mastering JavaScript!
 
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
