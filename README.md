@@ -1,7 +1,3 @@
-# JsMaster
-
-# JsMaster
-
 Welcome to the **JsMaster** repository – your ultimate resource for mastering JavaScript!
 
 ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
@@ -18,7 +14,9 @@ This repository is designed to empower developers at every level with practical 
 ## Introduction
 **JsMaster** is a comprehensive learning hub for both beginners and seasoned developers. Explore a range of topics from foundational JavaScript concepts to advanced programming techniques. Enhance your skills by studying real-world examples and diving into interactive learning experiences.
 
-![JavaScript Code](https://github.com/JunaidHassan19/JsMaster/tree/main/scripts)
+![code](https://github.com/user-attachments/assets/0418ad5e-3dc3-48cf-bdc5-af76ac904676)
+
+
 
 ## Installation
 To get started, clone the repository to your local machine:
