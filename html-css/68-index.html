@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Image Slider</title>
+  <style>
+    .slider{
+      position: relative;
+      width: 100%;
+      margin: auto;
+      overflow: hidden;
+    }
+
+    .slider img{
+      width: 100%;
+      height: 350px;
+      display: none;
+    }
+
+    img.displaySlide{
+      display: block;
+      animation-name: fade;
+      animation-duration: 1.5s;
+    }
+
+    .slider button{
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 2rem;
+      padding: 10px 15px;
+      background-color: hsl(0, 0%, 100%, 0.5);
+      border: none;
+      cursor: pointer;
+    }
+
+    .previous{
+      left: 0;
+    }
+
+    .next{
+      right: 0;
+    }
+
+    @keyframes fade{
+      from{
+        opacity: 0.4;
+      }
+      to{
+        opacity: 1;
+      }
+    }
+
+  </style>
+
+</head>
+<body>
+
+  <div class="slider">
+    <div class="slides">
+      <img src="./../images/is-1.jpg" alt="cat image-1" class="slide">
+      <img src="./../images/is-2.jpg" alt="cat image-2" class="slide">
+      <img src="./../images/is-3.jpg" alt="cat image-3" class="slide">
+      <img src="./../images/is-4.jpg" alt="cat image-4" class="slide">
+      <img src="./../images/is-5.jpg" alt="cat image-5" class="slide">
+    </div>
+
+    <button class="prev" onclick="prevSlide()">&#10094</button>
+    <button class="next" onclick="nextSlide()">&#10095</button>
+  </div>
+
+    <script src="./../scripts/68-image-slider.js"></script>
+</body>
+</html>
